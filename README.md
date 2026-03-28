@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm VARUN ROHILA ! 👋
 
-<!--
-**rohilavarun/rohilavarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Branch:** B.Tech AEROSPACE
+**Year:** First Year  
 
-Here are some ideas to get you started:
+### 🎯 My Goal
+I hope to learn the fundamentals of digital collaboration and build professional software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✈️ Personal Interests
+Beyond coding, I am a huge **fighter jet enthusiast**. I'm fascinated by aerospace engineering and the advanced technology used in modern aviation.
+
+### 🛠 Platforms I'm Exploring
+* **LinkedIn:** https://www.linkedin.com/in/varun-rohila-131b813ba/
+* **Kaggle:** https://www.kaggle.com/varunrohila
